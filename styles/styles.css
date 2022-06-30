@@ -185,7 +185,7 @@ section {
 .header-content .left-header .image {
     border-radius: var(--br-sm-2);
     height: 80%;
-    width: 58%;
+    width: 75%;
     margin-left: 4rem;
     background-color: var(--color-black);
     transition: all 0.4s ease-in-out;
@@ -468,7 +468,7 @@ section {
 
 .portfolios .portfolio-item img {
     width: 100%;
-    height: 300px;
+    height: 260px;
     object-fit: cover;
     border-radius: 15px;
 }
@@ -490,10 +490,10 @@ section {
     transition: all 0.4s ease-in-out;
 }
 
-.portfolios .portfolio-item .hover-items h3 {
+.portfolios .portfolio-item .hover-items h3 h4 {
     font-size: 1.5rem;
     color: var(--color-white);
-    margin-bottom: 1.5rem;
+    margin-bottom: 5.5rem;
 }
 
 .portfolios .portfolio-item .hover-items .icons {
@@ -991,7 +991,8 @@ section {
         display: none;
     }
     .left-header .image {
-        width: 90% !important;
+        width: 85% !important;
+        height: 95% !important;
         margin: 0 auto !important;
     }
     .right-header {
