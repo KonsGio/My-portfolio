@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -60,7 +60,7 @@
 ### Check this out
 
 * [![KGIO.DEV][SITE]][SITE-url]
-
+* [![LinkedIn][linkedin-shield]][linkedin-url]
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
