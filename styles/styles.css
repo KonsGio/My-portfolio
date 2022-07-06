@@ -347,11 +347,11 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .c {
-    width: 82%;
+    width: 65%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .docker {
-    width: 67%;
+    width: 55%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .jenkins {
