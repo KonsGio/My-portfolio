@@ -123,7 +123,7 @@ Konstantinos Giovanitsas - <a href="mailto:konstantinos.giovanitsas@yahoo.com">S
 <div id="top"></div>
 
 
-[![Contributors][contributors-shield]][https://github.com/KonsGio/My-portfolio/graphs/contributors]
+[![Contributors][contributors-shield]][www.github.com/KonsGio/My-portfolio/graphs/contributors]
 [![Forks][forks-shield]][https://github.com/KonsGio/My-portfolio/network/members]
 [![Stargazers][stars-shield]][https://github.com/KonsGio/My-portfolio/stargazers]
 [![Issues][issues-shield]][https://github.com/KonsGio/My-portfolio/issues]
