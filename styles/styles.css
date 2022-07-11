@@ -347,15 +347,15 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .c {
-    width: 65%;
+    width: 45%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .docker {
-    width: 55%;
+    width: 35%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .jenkins {
-    width: 59%;
+    width: 39%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .net {
@@ -363,7 +363,7 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .html5 {
-    width: 77%;
+    width: 85%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .react {
