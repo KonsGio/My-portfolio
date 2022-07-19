@@ -5,9 +5,9 @@
     list-style: none;
 }
 
-:root {
+.light-mode {
     --color-primary: #111524;
-    --color-secondary: #006eff;
+    --color-secondary: #0867e3;
     --color-white: #FFFFFF;
     --color-black: #000;
     --color-grey0: #f8f8f8;
@@ -21,9 +21,9 @@
     --box-shadow-1: 0 3px 15px rgba(0, 0, 0, .3);
 }
 
-.light-mode {
+:root {
     --color-primary: #ffffff;
-    --color-secondary: #af5e29;
+    --color-secondary: #bd703d;
     --color-white: #454e56;
     --color-black: #000;
     --color-grey0: #f8f8f8;
@@ -179,7 +179,7 @@ section {
     left: 0;
     top: 0;
     z-index: -1;
-    clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
+    clip-path: polygon(0 0, 100% 0%, 22% 100%, 0% 100%);
 }
 
 .header-content .left-header .image {
