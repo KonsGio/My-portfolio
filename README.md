@@ -10,7 +10,7 @@
   </a>
 <h3 align="center">My portfolio </h3>
   <p align="center">
-    This is my personal portfolio as featured at <a href="https://www.kgio.dev/"><strong>kgio.dev</strong></a>
+    This is my personal portfolio as featured at <a href="https://kgio-portfolio.netlify.app"><strong>kgio.dev</strong></a>
     <br />
     <a href="https://github.com/KonsGio/My-portfolio"><strong>Explore the docs »</strong></a>
     <br />
